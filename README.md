@@ -1,6 +1,6 @@
 # hyperblog 👁
 un blog increíble para el conocimiento en Git y Github
->El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanme a la industrial del desarrollo de software.
+>El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industrial del desarrollo de software.
 > - Luis Carlos kristen
 
 ##En este curso vimos de todo:
